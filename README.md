@@ -6,7 +6,6 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I'm a 3rd-year Electronics and Communication Engineering student at NIT Surat, passionate about sitting at the intersection of Machine Learning, Signal Processing, and Scalable Software Engineering. Whether I'm training neural networks on audio data or building full-stack AI applications, I love turning complex math and logic into functional systems.
