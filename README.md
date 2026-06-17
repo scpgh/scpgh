@@ -8,7 +8,7 @@
 
 
 ## 📌 About Me
-- I'm a 3rd-year Electronics and Communication Engineering student at NIT Surat, passionate about sitting at the intersection of Machine Learning, Signal Processing, and Scalable Software Engineering. Whether I'm training neural networks on audio data or building full-stack AI applications, I love turning complex math and logic into functional systems.
+- I'm a Final year Electronics and Communication Engineering student at NIT Surat, passionate about sitting at the intersection of Machine Learning, Signal Processing, and Scalable Software Engineering. Whether I'm training neural networks on audio data or building full-stack AI applications, I love turning complex math and logic into functional systems.
 - 🚀 What I'm currently working on:
 - Developing a Transformer-based diagnostic model to detect the common cold from speech signals using PyTorch and Librosa.
 - Solving algorithmic problems daily (250+ solved across LeetCode, Codeforces, etc.).
