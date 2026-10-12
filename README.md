@@ -2,24 +2,26 @@
 
 
 ## 📌 About Me
-- I'm a Final year Electronics and Communication Engineering student at NIT Surat, passionate about sitting at the intersection of Machine Learning, Signal Processing, and Scalable Software Engineering. Whether I'm training neural networks on audio data or building full-stack AI applications, I love turning complex math and logic into functional systems.
-- 🚀 What I'm currently working on:
+- I'm a Final year Electronics and Communication Engineering student at NIT Surat, passionate about sitting at the intersection of Machine Learning, Signal Processing, Embedded Software, Web-Applicaiton Engineering. Whether I'm training neural networks on audio data or building full-stack AI applications, I love turning complex math and logic into functional systems.
+-  What I'm currently working on:
 - Developing a Transformer-based diagnostic model to detect the common cold from speech signals using PyTorch and Librosa.
 - Solving algorithmic problems daily (250+ solved across LeetCode, Codeforces, etc.).
-- 🛠️ My Tech Stack:
+-  My Tech Stack:
 - AI/ML: PyTorch, TensorFlow, Scikit-Learn, Transformers, Pandas, NumPy
 - Web Development: Next.js, React.js, Tailwind CSS, PostgreSQL, Strapi CMS
+- FreeRTOS, ESP32, Microcontrollers, Interrupts & Timers,  MQTT, I2C, SPI, UART, CAN BUS.
 - Languages: C++, Python, JavaScript
 - Core Engineering: Signal Processing, VLSI, Antenna Design, Digital Electronics, Analog Circuits.
-- 🏆 Quick Stats: 9.48 CGPA | Top 1% NPTEL DBMS | Top 1.4% JEE Main 2023
+- Quick Stats: 9.48 CGPA | Top 1% NPTEL DBMS | Top 1.4% JEE Main 2023
 
 
-## 🧠 My Focus Areas
+##  My Focus Areas
 - AI/ML
+- Embedded Systems
 - Web Development
 
 
-## 📊 GitHub Stats & Trophies
+##  GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/scpgh">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=scpgh&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="scpgh's GitHub Stats" />
@@ -28,7 +30,7 @@
 </p>
 
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 > ## Programming Languages
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
