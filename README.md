@@ -1,11 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Chaitanya&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=BTECH%20Undergraduate&descSize=18&descAlignY=55&textBg=false"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=scpgh">
-    <img src="https://komarev.com/ghpvc/?username=scpgh&label=Profile%20views&color=00FFFF&style=flat-square" alt="scpgh's profile views" />
-  </a>
-</p>
-
 
 ## 📌 About Me
 - I'm a Final year Electronics and Communication Engineering student at NIT Surat, passionate about sitting at the intersection of Machine Learning, Signal Processing, and Scalable Software Engineering. Whether I'm training neural networks on audio data or building full-stack AI applications, I love turning complex math and logic into functional systems.
